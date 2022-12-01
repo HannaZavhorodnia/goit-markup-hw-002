@@ -169,7 +169,6 @@ background-color:  #2F303A;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19230;
-    /* identical to box height */
     letter-spacing: 0.03em;
     color: #FFFFFF;
     text-decoration: none;
@@ -208,7 +207,6 @@ text-decoration: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7142;
-    /* or 171% */
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
