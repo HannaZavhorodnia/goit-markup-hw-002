@@ -104,7 +104,6 @@ color: #212121;
 font-weight: 400;
 font-size: 14px;
 line-height: 1.7142;
-/* or 171% */
 letter-spacing: 0.03em;
 color: #757575;
 }
@@ -178,7 +177,7 @@ background-color:  #2F303A;
      color:    #2196F3;
      }
 
-}
+
 .contacts-address {
 font-style: inherit;
 }
