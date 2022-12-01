@@ -62,6 +62,7 @@ color: #2196F3;
 }
 
 .hero-title {
+font-weight: 900;
 font-size: 44px;
 line-height: 1.3636;
 /* or 136% */
@@ -163,7 +164,22 @@ color: #757575;
 .footer {
 background-color:  #2F303A;
 }
+.logo-footer {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19230;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    text-decoration: none;
+     }
+    
+     .colortext {
+     color:    #2196F3;
+     }
 
+}
 .contacts-address {
 font-style: inherit;
 }
@@ -202,7 +218,7 @@ text-decoration: none;
 
 /*----------------------------------------PORTFOLIO--------------------------------------------- */
 
-.nav-list {
+.list {
     list-style: none;
     text-decoration: none;
 }
@@ -226,6 +242,7 @@ background-color: #2196F3;
 list-style-type: none;
 }
 .portfolio-title {
+font-weight: 700;   
 font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
@@ -234,7 +251,6 @@ color: #212121;
 }
 
 .portfolio-uptitle {
-font-weight: 400;
 font-size: 16px;
 line-height: 1.8750;
 letter-spacing: 0.03em;
